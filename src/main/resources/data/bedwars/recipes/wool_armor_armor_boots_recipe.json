@@ -1,0 +1,26 @@
+{
+  "group": "bedwars",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_wool"
+    },
+    "2": {
+      "item": "minecraft:cyan_wool"
+    },
+    "3": {
+      "item": "minecraft:cyan_wool"
+    },
+    "5": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "result": {
+    "item": "bedwars:wool_armor_armor_boots",
+    "count": 1
+  }
+}

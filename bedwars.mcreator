@@ -1,0 +1,124 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BLUEBEDParticleSpawningCondition",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluebed_particle_spawning_condition",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BLUEBEDEntityDies",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluebed_entity_dies",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BLUEBED",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluebed"
+    },
+    {
+      "name": "Wool_ArmorArmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wool_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Wool_ArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wool_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Wool_ArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wool_armor_armor_body_recipe"
+    },
+    {
+      "name": "Wool_ArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wool_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Wool_ArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wool_armor_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.bedwars.wool_armor_armor_helmet": "Wool_Armor Helmet",
+      "item.bedwars.wool_armor_armor_leggings": "Wool_Armor Leggings",
+      "item.bedwars.wool_armor_armor_chestplate": "Wool_Armor Chestplate",
+      "entity.bedwars.bluebed": "BLUEBED",
+      "item.bedwars.bluebed_spawn_egg": "BLUEBED Spawn Egg",
+      "item.bedwars.wool_armor_armor_boots": "Wool_Armor Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bedwars",
+    "modName": "BEDWARS",
+    "version": "1.0.0",
+    "author": "Clark, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.bedwars",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
